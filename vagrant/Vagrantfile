@@ -1,0 +1,6 @@
+touch provisioning/db.sh
+touch provisioning/app.sh
+touch provisioning/web.sh
+touch provisioning/cache.sh
+touch provisioning/rmq.sh
+
